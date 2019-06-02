@@ -19,7 +19,7 @@ WAS : apache-tomcat - 9.0
 
 DBMS : Oracle
 
-IDE : Eclipse
+IDE : Eclipse, STS
 
 Language : Java
 
