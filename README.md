@@ -1,4 +1,4 @@
-project#1 name : Eoullim(Shopping mall)
+<project#1 name : Eoullim(Shopping mall)>
 
 framework : Struts2
 
@@ -9,3 +9,17 @@ DBMS : Oracle
 IDE : Eclipse
 
 Language : Java
+
+
+<project#2 name : Movie Cube(영화 예매 사이트)>
+
+framework : Spring
+
+WAS : apache-tomcat - 9.0
+
+DBMS : Oracle
+
+IDE : Eclipse
+
+Language : Java
+
